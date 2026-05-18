@@ -1,4 +1,4 @@
-# PRODUCT-CHECKOUT-IS-SUCCESSFUL-WITHOUT-PROPER-CREDIT-CARD-DETAILS
+# BUG REPORT: PRODUCT-CHECKOUT-IS-SUCCESSFUL-WITHOUT-PROPER-CREDIT-CARD-DETAILS
 # DESCRIPTION
 When I clicked on “Place Order” and inputted random number, the purchase was successful with this confirmation message “Thank you for your purchase.
 # STEPS TO REPRODUCE:
